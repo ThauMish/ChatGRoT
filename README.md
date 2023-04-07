@@ -42,7 +42,7 @@ ChatGRoT is a simple Discord chatbot powered by OpenAI's GPT-3.5-turbo. The bot 
 5.  Register the `/chat` command in your Discord server by running:
     
     ```
-    arduinonode register-command.js
+    node register-command.js
     
     ```
     
@@ -58,7 +58,7 @@ To use the chatbot in your Discord server, simply type `/chat` followed by your 
 Example:
 
 ```
-bash/chat What is the capital of France?
+/chat What is the capital of France?
 
 ```
 

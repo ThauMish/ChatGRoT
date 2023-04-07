@@ -4,9 +4,9 @@ const { Client, Intents } = require('discord.js');
 const { ApplicationCommandOptionType } = require('discord-api-types/v9');
 
 
-const clientId = '1093806833677893703';
-const guildId = '856540095595544586';
-const token = 'MTA5MzgwNjgzMzY3Nzg5MzcwMw.GY3Dw-.UBHJTUfe3qKDNHjM9zcHj7loz7UPLiunitxUXc';
+const clientId = 'petit coquin';
+const guildId = 'petit coquin';
+const token = 'petit coquin';
 
 const chatCommand = {
   name: 'chat',

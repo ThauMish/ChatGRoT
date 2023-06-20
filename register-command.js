@@ -36,3 +36,4 @@ const rest = new REST({ version: '9' }).setToken(token);
         console.error(error);
     }
 })();
+MTEyMDcyMDk2OTY5OTQ0Mjc3OQ.GgI6CE.AFHuONqWXk41PDcILQwBqLz-qSVPo5OnTZypw4
